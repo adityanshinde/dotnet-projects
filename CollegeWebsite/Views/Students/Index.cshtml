@@ -1,0 +1,23 @@
+@model IEnumerable<CollegeWebsite.Models.Student>
+@{
+    ViewBag.Title = "Students";
+}
+
+<h2>Students</h2>
+<table class="table">
+    <thead>
+        <tr><th>Id</th><th>Name</th><th>Age</th><th>Adult</th><th></th></tr>
+    </thead>
+    <tbody>
+@foreach(var s in Model)
+{
+    <tr>
+        <td>@s.Id</td>
+        <td>@s.Name</td>
+        <td>@s.Age</td>
+        <td>@(s.IsAdult() ? "Yes" : "No")</td>
+        <td><a href="/Students/Details/@s.Id">Details</a></td>
+    </tr>
+}
+    </tbody>
+</table>

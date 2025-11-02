@@ -1,0 +1,24 @@
+@model CollegeWebsite.Models.Student
+@{
+    ViewBag.Title = "Student Details";
+}
+
+<h2>@Model.Name</h2>
+<p><strong>Id:</strong> @Model.Id</p>
+<p><strong>Age:</strong> @Model.Age</p>
+<p><strong>Adult:</strong> @(Model.IsAdult() ? "Yes" : "No")</p>
+
+<h3>Enrolled Courses</h3>
+@if (Model.Enrolled.Any())
+{
+    <ul>
+    @foreach(var c in Model.Enrolled)
+    {
+        <li>@c.Summary()</li>
+    }
+    </ul>
+}
+else
+{
+    <p>No enrolled courses.</p>
+}
