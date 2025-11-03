@@ -28,3 +28,4 @@ C:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\CollegeWebsite
 C:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\CollegeWebsite\obj\Debug\net10.0\CollegeWebsite.pdb
 C:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\CollegeWebsite\obj\Debug\net10.0\CollegeWebsite.genruntimeconfig.cache
 C:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\CollegeWebsite\obj\Debug\net10.0\ref\CollegeWebsite.dll
+C:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\CollegeWebsite\obj\Debug\net10.0\CollegeWebsite.sourcelink.json

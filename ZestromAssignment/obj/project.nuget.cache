@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNYhoF48CEo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adity\\OneDrive\\Desktop\\clg project\\dot net\\dot net study\\ZestromAssignment\\ZestromAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adity\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\adity\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\adity\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\adity\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.0\\microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

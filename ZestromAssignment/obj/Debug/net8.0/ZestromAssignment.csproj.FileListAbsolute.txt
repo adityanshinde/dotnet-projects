@@ -1,0 +1,10 @@
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.csproj.AssemblyReference.cache
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\rpswa.dswa.cache.json
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.AssemblyInfoInputs.cache
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.AssemblyInfo.cs
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.csproj.CoreCompileInputs.cache
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.RazorAssemblyInfo.cache
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.RazorAssemblyInfo.cs
+c:\Users\adity\OneDrive\Desktop\clg project\dot net\dot net study\ZestromAssignment\obj\Debug\net8.0\ZestromAssignment.sourcelink.json

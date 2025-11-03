@@ -97,3 +97,5 @@ License
 This sample is provided for learning and experimentation. Use it freely.
 
 If you want, I can also create a step-by-step exercise file (exercise + solution) that you can work through. Reply with what you'd like next (add CRUD, connect EF Core, or add tests).
+
+Note: Study notes were also added as top-of-file comments in the main source files (`Program.cs`, the files under `Models/`, and `Controllers/`) to explain class responsibilities, key keywords, and typical workflows. Open those files to read the inline explanations.
